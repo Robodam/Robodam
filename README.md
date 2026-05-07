@@ -116,6 +116,7 @@ Certifications:
 
 | Project | Description |
 |----------|-------------|
+| 🖧  Databridge-network-infrastructure | <a href="https://github.com/Robodam/databridge-network-infrastructure"> Cisco Packet Tracer Network Design & Security Project</a> |
 | 🔐 Security Lab | Practical cybersecurity labs and simulations |
 | 🛡️ Vulnerability Scanner | Automated vulnerability assessment tool |
 | ☁️ Cloud Security Toolkit | Security automation scripts for cloud environments |
